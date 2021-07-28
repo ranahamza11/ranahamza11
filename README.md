@@ -1,7 +1,7 @@
 - 👋 Assalam o Alaikum, I am Muhammad Hamza Naeem
 - 👀 I am interested in Mobile app dev, I like to solve problems.
 -    I am currently a student of BSCS.
-     Besides the academic courses, I am currently learning android app dev(using kotlin), I have a good grip in c++, java and kotlin. 
+     Besides the academic courses, I am currently learning android app dev(using kotlin), I have a good grip in c++, java, python and kotlin. 
 - 📫 Contact info: drovisfrovis@gmail.com
 
 <!---
