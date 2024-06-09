@@ -1,6 +1,5 @@
 - 👋 Assalam o Alaikum, I am Muhammad Hamza Naeem
-- As a student of final semester of BSCS, during my tenour I had trained myself through challenges that enable me to tackle complex issues and find creative solutions. I have a strong foundation in computer science fundamentals, including programming languages, data structures, algorithms, and computer architecture. I have strong analytical skills, with the ability to break down complex problems into manageable components. Besides my technical skills I also have good communication skills. And I have a passion for using these skills to solve complex problems and create innovative solutions. Moreover I am a quick learner. 
-- 📫 Contact info: drovisfrovis@gmail.com
+- As an emerging full-stack software engineer, I possess a strong command of both front-end and back-end technologies. I have completed several projects utilizing a range of technology stacks. My specialty lies in solving complex logical problems and delivering effective, optimized solutions. I have experience working with Laravel, Django, Vue.js, and various AWS services. My key strength is consistently developing optimized solutions, backed by robust logic-building skills.
 
 <!---
 ranahamza11/ranahamza11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
